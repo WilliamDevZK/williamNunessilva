@@ -1,7 +1,13 @@
-### Hi there 👋
+### Ex Developer of lua scripts for roblox.
+
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=williamNunessilva&theme=github_dark)](https://github.com/Trashzinhookz/github-readme-stats)
+
+[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamNunessilva&theme=github_dark)](https://github.com/Trashzinhookz/github-readme-stats)
+
 
 <!--
-**williamNunessilva/williamNunessilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Trashzinhookz/Trashzinhookz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

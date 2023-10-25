@@ -1,9 +1,9 @@
 ### Developer Student Developer at school
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=williamNunessilva&theme=github_dark)](https://github.com/Trashzinhookz/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=WilliamDevZK&theme=github_dark)](https://github.com/Trashzinhookz/github-readme-stats)
 
-[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamNunessilva&theme=github_dark)](https://github.com/Trashzinhookz/github-readme-stats)
+[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamDevZK&theme=github_dark)](https://github.com/Trashzinhookz/github-readme-stats)
 
 
 <!--
